@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+body{
+    background-color: rgba(127, 255, 212, 0.5);
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+h1#principal{ /*escolhendo aqui o id*/
+    text-align: center;
+    color: #fff;
+
+}
+
+h1{
+    color: rgba(137, 43, 226, 0.315);
+}
+h2{
+    color: rgba(165, 42, 42, 0.404);
+}
+
+.basica{ /* chamando pela class*/
+    color: burlywood;
+}
+
+.intermediário{
+    color: cadetblue;
+}
+
+.avançado{
+    color: red;
+}

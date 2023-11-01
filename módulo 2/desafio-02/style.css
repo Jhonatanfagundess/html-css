@@ -1,0 +1,132 @@
+@charset "UTF-8";
+@font-face {
+    font-family:'android' ;
+    src: url('idroid.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(144, 238, 144, 0.507);
+   
+    
+}
+
+#comeco{
+    background-image:linear-gradient(to top, #0CF25D, #038C3E, #02735E);
+    color: white;
+    box-shadow: 2px 2px 5px black;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+}
+
+.so{
+    text-align: center;
+}
+
+.Titlo{
+    text-align: left;
+    font-family: 'android', Helvetica, sans-serif;
+    background-color: rgba(144, 238, 144, 0.397);
+    color: #038C3E;
+    text-indent: 10px;
+}
+    
+
+.sub{
+    text-align: left;
+    font-family: 'android', Helvetica, sans-serif;
+    background-color: rgba(144, 238, 144, 0.397);
+    color: #038C3E;
+    text-indent: 15px;
+}
+.navegacao{
+    text-align: left;
+    margin: 15px;
+    color: #fff;
+}
+
+nav > a:hover{
+    text-decoration: underline;
+}
+nav > a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+}
+main{
+    text-align: center;
+    text-align: justify;
+    background-color: #fff;
+    border: 20px;
+    padding: 10px;
+    margin: 2px auto;
+    width: 900px;
+    border-radius: 10px 0px 10px 0px;
+    box-shadow: 1px 1px 2px black;
+    
+}
+p{
+    text-align: left;
+    text-indent: 20px;
+   color: black;
+   text-align: justify;
+}
+a{
+    text-decoration: none;
+    color:  rgb(2, 51, 2);
+    
+
+}
+footer{
+    background-color: rgb(1, 29, 1);
+    color: #fff;
+    text-align: center;
+    margin: 15px;
+}
+.fim{
+    color: rgb(6, 119, 6)
+}
+
+strong{
+    color: rgb(2, 51, 2);
+}
+
+
+
+div#video{
+    width: 500px;
+    margin: auto;
+    }
+
+.bvideo{
+    background-color: #038C3E;
+
+}    
+
+h3{
+    color: white;
+    background-color: rgb(144, 238, 144);
+}
+
+   
+.image{
+    text-align: center;
+}
+
+
+.extra{
+    border-radius: 0px 0px 10px 10px ;
+    width:  850px;
+    margin: -20px 4px 10px 10px;
+    background-color: #02fa6d65;
+}
+
+h3{
+    text-decoration: solid;
+    background-color: #02735E;
+    padding: 10px;
+    border-radius: 10px 10px 0px 0px;
+    border:-10px ;
+    
+}

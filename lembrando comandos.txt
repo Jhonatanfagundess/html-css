@@ -57,3 +57,5 @@ footer = div
 section = sessão
 nav - navegação
 box shadow = vertical horizontal e vertical e cor
+background-repat = decidir se repete ou não a imagem
+background-posicitiom = decidir a posição da imagem == center center

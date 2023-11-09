@@ -1,2 +1,0 @@
-class = escolher a classe para mexer no css 
-text-decoretion : none = tirar o sublinhado
